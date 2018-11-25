@@ -18,13 +18,12 @@ avatar: https://avatars2.githubusercontent.com/u/30409501?s=400&u=9d6908c725eeeb
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: harpreetsg.delhi@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/harpreetSinghGuller?tab=repositories
   instagram:
-  linkedin:
-  pinterest:
+  linkedin: https://www.linkedin.com/in/harpreetsinghguller/
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
