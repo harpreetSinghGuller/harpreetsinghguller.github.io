@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Harpreet Singh Guller
 permalink: /about/
 published: true
 ---
 
-Some information about you!
+Harpreet Singh has Vast industry Experince with strong knowledge of BFSI & Telecom domains
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+https://www.linkedin.com/in/harpreetsinghguller/
 
 ### Contact me
 
